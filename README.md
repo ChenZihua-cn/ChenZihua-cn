@@ -1,12 +1,26 @@
-# ChenZihua-cn
+<div align="center">
 
-## Project Experience
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Cyan;Welcome+to+my+GitHub+%7E" alt="Typing SVG" />
 
-- Developed a course selection system in Python, implementing course choosing and withdrawing functionality.
-- Studying Unity and C#, working on a plane-attacking game.
+</div>
 
-## Skills
+<p align="center">
+  <img src="assets/banner.svg" alt="banner" width="100%" />
+</p>
 
-- Python, C
-- Linux, Git
-- Technical documentation reading and AI tools
+### ✨ About Me
+
+```python
+class Developer:
+    name  = "ChenZihua"
+    langs = ["Python", "C"]
+    hobby = ["Anime", "Game Dev", "Manim"]
+```
+
+### 🎮 Projects
+
+- [ ] Manim animation to introduce AFM
+- [ ] PolarCraft: a website to show x-institute course
+- [ ] IYPT problem physics simulation
+- [ ] CATGIRL chatbot
+- [ ] Others idea and waiting for completed
